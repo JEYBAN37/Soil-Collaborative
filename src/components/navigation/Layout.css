@@ -1,0 +1,15 @@
+
+.principal_container::before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 4rem;
+    width: 100%;
+    z-index: -1;
+    background-image: radial-gradient(circle at center, rgba(0, 0, 0, 0) 10%, rgba(0, 0, 0, 1) 100%), url(https://1.bp.blogspot.com/-Y2TBmGkP1Qk/VgBv9G8EiuI/AAAAAAAAA-A/EuaExDn7iXUK3tQrvTWbLsXgtHalgbf8ACPcBGAYYCw/s1600/302.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: calc(100vh - 4rem);
+}

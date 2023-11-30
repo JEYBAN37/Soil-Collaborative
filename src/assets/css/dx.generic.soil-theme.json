@@ -1,0 +1,42 @@
+{
+    "items": [
+        {
+            "key": "$base-bg",
+            "value": "rgba(255, 255, 255, 1)"
+        },
+        {
+            "key": "$base-accent",
+            "value": "rgba(96, 153, 102, 1)"
+        },
+        {
+            "key": "$base-border-radius",
+            "value": "10px"
+        },
+        {
+            "key": "$base-border-radius-small",
+            "value": "10px"
+        },
+        {
+            "key": "$texteditor-color",
+            "value": "rgba(51, 51, 51, 1)"
+        },
+        {
+            "key": "$texteditor-border-color",
+            "value": "rgba(84, 146, 93, 1)"
+        },
+        {
+            "key": "$texteditor-hover-border-color",
+            "value": "rgba(99, 176, 110, 1)"
+        },
+        {
+            "key": "$form-field-item-color",
+            "value": "rgba(84, 146, 93, 1)"
+        }
+    ],
+    "baseTheme": "generic.light",
+    "outputColorScheme": "soil-theme",
+    "makeSwatch": false,
+    "version": "22.2.6",
+    "widgets": [],
+    "removeExternalResources": false
+}

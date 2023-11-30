@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dx-button-text {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #fff;
+}
