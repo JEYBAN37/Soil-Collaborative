@@ -1,0 +1,17 @@
+
+{
+  
+  "id": 1,
+  "productor_id": 1,
+  "departamento": "Nariño",
+  "municipio": "ipiales",
+  "vereda": "La Esperanza",
+  "tipo_predio": "E",
+  "tipo_posesion_cultivo": "T",
+  "coordenadas": "6.123456, -75.123456",
+  "altitud": 2500.0,
+  "area_cacao": 50,
+  "area_otros_cultivos": 0,
+  "area_rastrojo": 120
+}
+ 

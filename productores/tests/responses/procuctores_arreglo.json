@@ -1,0 +1,29 @@
+[
+{
+    "nombre": "Jusan",
+    "apellido": "Pérseza",
+    "genero": "M",
+    "etnia": "A",
+    "tipo_documento": "C",
+    "numero_documento": "123456789",
+    "condicion": "D",
+    "departamento": "Antioquia",
+    "municipio": "Medellín",
+    "vereda": "La Montaña",
+    "informacion_economica_id":6
+},
+{
+    "nombre": "Juasn",
+    "apellido": "Pésreza",
+    "genero": "M",
+    "etnia": "A",
+    "tipo_documento": "C",
+    "numero_documento": "123456789",
+    "condicion": "D",
+    "departamento": "Antioquia",
+    "municipio": "Medellín",
+    "vereda": "La Montaña",
+    "informacion_economica_id": 8
+}
+
+]

@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "nombre": "Juan",
+  "apellido": "Pérez",
+  "genero": "M",
+  "etnia": "A",
+  "tipo_documento": "C",
+  "numero_documento": "123456789",
+  "condicion": "D",
+  "departamento": "Antioquia",
+  "municipio": "Medellín",
+  "vereda": "La Montaña"
+}

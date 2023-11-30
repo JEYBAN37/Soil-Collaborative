@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "actividad_principal": "A",
+  "actividad_secundaria": "C",
+  "ingreso_total_hogar": 20.0,
+  "ingreso_total_venta": 20.0,
+  "costo_mantenimiento": 20.0,
+  "dias_mes_trabajo_cultivo": 15,
+  "dias_mes_trabajo_no_cultivo": 10,
+  "es_asociado": true,
+  "nombre_asociacion": "AgroCacao"
+}

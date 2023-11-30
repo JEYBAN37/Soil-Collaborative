@@ -1,0 +1,24 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+variables: 
+  RAILWAY_SERVICE_NAME: "core-app"
+  RAILWAY_TOKEN: "067e078c-222d-4043-adc4-0016b0cd778c"
+
+trigger:
+- main
+
+pool:
+  vmImage: ubuntu-latest
+
+steps:
+- script: echo Hello, world!
+  displayName: 'Run a one-line script'
+
+- script: |
+    apt-get update && apt-get install -y curl
+    curl -fsSL https://railway.app/install.sh | sh
+    railway up --service=$RAILWAY_SERVICE_NAME -d
+  displayName: 'Run a multi-line script'

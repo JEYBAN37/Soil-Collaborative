@@ -1,0 +1,13 @@
+version: '3'
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/code
+    environment:
+      - LANG=es_CO.UTF-8
+    command: sh -c "python manage.py migrate && python manage.py createsuperuser --noinput --username=admin --email=admin@example.com && python manage.py runserver 0.0.0.0:8000"
