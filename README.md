@@ -8,6 +8,10 @@ El software Soil, es un sistema de información que cumple con la función de re
 
 ![Logo de mi proyecto](evidenceOne.png)
 
+# Install
+
+El proyecto se encuentra en dos Ramas de git para que descargues y pruebes si te intereza el ejemplo
+
 ## Desarrollo
 
 Nuestra metodología de desarrollo se basó en Scrum, y con ello, documentar el proceso de construccion.
