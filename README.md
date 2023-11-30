@@ -11,6 +11,7 @@ El software Soil, es un sistema de información que cumple con la función de re
 # Install
 
 El proyecto se encuentra en dos Ramas de git para que descargues y pruebes si te intereza el ejemplo
+!!!!ADVERTENCIA!! se recuerda que el uso de este proyecto esta prohibido ya que es de caracter educativo
 
 ## Desarrollo
 
@@ -35,4 +36,7 @@ se aplico 4+1 para constuir y diseñar Soil
 # Creditos al Equipo
 
 se recalca que este fue un proyecto colaborativo y de caracter academico siendo anexado a este repositorio por participacion directa del mismo agradecimiento al equipo de Desarrollo y doscente 
-@JuanCampino,@DanielVillota,@SantiagoMoreno,@EstebanGetial
+@JuanCampino,@DanielVillota,@SantiagoMoreno,@EstebanGetial 
+
+DATOS EXTRAIDOS DE 
+https://dev.azure.com/desarrollowebuccpasto/
