@@ -11,7 +11,7 @@ El software Soil, es un sistema de información que cumple con la función de re
 # Install
 
 El proyecto se encuentra en dos Ramas de git para que descargues y pruebes si te intereza el ejemplo
-!!!!ADVERTENCIA!! se recuerda que el uso de este proyecto esta prohibido ya que es de caracter educativo
+recuerda que este proyecto es de caracter educativo
 
 ## Desarrollo
 
